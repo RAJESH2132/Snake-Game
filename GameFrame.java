@@ -10,7 +10,7 @@ public class GameFrame extends JFrame{
         setResizable(false);
         pack();
         setVisible(true);
-        //to appear window in middle of screen
+        //To appear window in middle of screen
         setLocationRelativeTo(null);
     }
     
